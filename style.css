@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: red; /* changed from #f8f3f3 to red */
+  color: #333;
+  line-height: 1.5;
+}
+
+h1, h2 {
+  color: #B11226;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+ul {
+  padding-left: 20px;
+}
